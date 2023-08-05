@@ -56,13 +56,13 @@
 Clone this repository to your desired folder:
 
 `cd my-folder`
-`git clone https://github.com/TamaraDimov/Morse_code_project.git`
+`git clone https://github.com/ShaliniNayan/decode-morse.git`
 
 ### Install
 
 Install this project with:
 
-`cd Morse_code_project`
+`cd decode-morse`
 
 `bundle install`
 
